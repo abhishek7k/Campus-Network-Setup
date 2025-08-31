@@ -1,4 +1,4 @@
-Cisco Campus Network with VLANs & Inter-VLAN Routing
+# Cisco Campus Network with VLANs & Inter-VLAN Routing
 📝 Project Overview
 This project is a comprehensive simulation of a multi-VLAN campus network built using Cisco Packet Tracer. The primary goal was to design and configure a scalable and secure network infrastructure that segments traffic for different user groups (e.g., Students, Faculty, Servers) and provides essential network services.
 
